@@ -76,7 +76,7 @@ Positioning: *a cup of coffee a month, a lunch a year.* Impulse-buy monthly, com
 **What exists:**
 - Android app, public open beta on Google Play
 - Web version (internal — usable for iOS/non-Android users, not yet promoted)
-- Website: yescoach.app with email waitlist
+- Website: yescoach.fit with email waitlist
 - X account: @YCoach58265, ~150 max impressions/post
 
 **Real users so far:**

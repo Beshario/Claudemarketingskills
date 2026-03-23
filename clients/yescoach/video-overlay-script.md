@@ -80,6 +80,80 @@ Record this as one continuous flow. Add text overlays in editing.
 
 ---
 
+## Upload Captions & Descriptions
+
+Copy-paste ready. Replace `[LINK]` with your Google Play store link.
+
+---
+
+### Full Demo (YouTube)
+
+**Title:**
+YesCoach — See what your training is actually doing
+
+**Description:**
+Most workout apps record. YesCoach explains.
+
+See which muscles are working, how recovered they are, and what patterns are emerging over time — all from a biomechanics engine, not generic labels.
+
+Free on Android → [LINK]
+
+yescoach.fit
+
+---
+
+### Short #1 — Navigation (YouTube Shorts + Instagram)
+
+**Caption:**
+This is how browsing exercises should feel.
+
+Start with your body. Tap a muscle. See every movement that trains it. No lists. No scrolling through exercises you don't need.
+
+Free on Android → [LINK]
+
+#workout #fitnessmotivation #strengthtraining #gymapp #biomechanics #workoutapp
+
+---
+
+### Short #2 — Pattern Reveal (YouTube Shorts + Instagram)
+
+**Caption:**
+Your training has a pattern. Do you actually know what it is?
+
+Most people don't — because workout logs are lists. When you see it on a body map, it's obvious.
+
+Free on Android → [LINK]
+
+#strengthtraining #workouttracking #gymapp #trainingdata #fitnessmotivation #workout
+
+---
+
+### Short #3 — Recovery (YouTube Shorts + Instagram)
+
+**Caption:**
+When are you actually recovered?
+
+Most people guess. They plan by calendar, not by readiness. There's a better way.
+
+Free on Android → [LINK]
+
+#recovery #musclerecovery #strengthtraining #gymapp #workoutapp #fitnessmotivation
+
+---
+
+### Short #4 — Founder (YouTube Shorts + Instagram)
+
+**Caption:**
+I built a workout app because I was tired of training blind.
+
+I'm an engineer. I read the exercise science textbooks. I built the biomechanics engine I wished existed. This is YesCoach.
+
+Free on Android → [LINK]
+
+#buildinpublic #indiedev #workoutapp #strengthtraining #gymapp #solofounder
+
+---
+
 ## Editing Notes
 
 - **Overlay style:** White text, semi-transparent dark pill background — readable on any screen
@@ -88,4 +162,4 @@ Record this as one continuous flow. Add text overlays in editing.
 - **Music:** Low-fi instrumental, quiet. YouTube Audio Library has free options. Search "lofi focus" or "minimal workout".
 - **No voiceover needed** — the overlays tell the whole story
 - **Pace the actions deliberately** — slow enough that a first-time viewer can follow what's happening
-- **End card every Short:** App name + "Free on Android" + yescoach.app
+- **End card every Short:** App name + "Free on Android" + yescoach.fit

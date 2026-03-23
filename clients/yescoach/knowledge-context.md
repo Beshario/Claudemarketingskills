@@ -111,7 +111,7 @@ This is not a logger — it's a platform for training intelligence. The long-ter
 | Channel | Status | Notes |
 |---------|--------|-------|
 | X (Twitter) | Active, underperforming | @YCoach58265, ~150 max impressions/post |
-| Website | Live | yescoach.app, email waitlist via Netlify forms |
+| Website | Live | yescoach.fit, email waitlist via Netlify forms |
 | App Store | Android (Google Play) | Open beta |
 | Email list | Collecting | ~handful (friends only, not yet a real list) |
 
