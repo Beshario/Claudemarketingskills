@@ -1,6 +1,13 @@
-# YesCoach — Video Overlay Script
+# YesCoach — Video Overlay Script (Pro / Power-User Cuts)
 
 *Record the full flow once. Trim into the cuts below.*
+
+> **⚠ Scope note (updated 2026-05-30):** these cuts demo the **manual tap-a-muscle build flow** —
+> the *pro / power-user* path. For first-session acquisition and activation, the hero asset is
+> the template→submit→wow video in **[first-session-wow.md](./first-session-wow.md)**. Use these
+> cuts when speaking to intermediate/advanced lifters who want to see the manual depth and the
+> muscle-first navigation; keep them OFF the main acquisition surfaces (yescoach.fit hero, Play
+> store, X pinned), which lead with the activation cut.
 
 ---
 

@@ -166,6 +166,34 @@ Pre-written posts ready to use. Pull from here each Monday when batching.
 
 ---
 
+### First-Session Wow Arc / Smart-Gen Tease (added 2026-05-30)
+
+Three posts threading the activation story — pair with the rescript in `first-session-wow.md`.
+
+> "Spent the week pinning down why first-session users bounce.
+>
+> Turns out the app was asking too much upfront — manual workout building is the *pro* path, not the newcomer path.
+>
+> Newcomers want a ready plan, train, hit submit. The wow lives after submit, not before. Tightening that now."
+
+---
+
+> "Most workout apps end your session with 'workout complete.'
+>
+> YesCoach ends it with your body — the muscles you actually worked, lit up, calculated from real biomechanics.
+>
+> Fixing the moment where that visual lands. It should hit instantly the second you hit submit."
+
+---
+
+> "Building smart workout generation.
+>
+> The hard part isn't the suggestions. It's making them grounded in *your* training data and biomechanics — not a generic template padded out.
+>
+> A real personal plan, generated from how you've actually trained. More soon."
+
+---
+
 ### Invite / Beta Offer
 
 > "Looking for serious lifters to beta test YesCoach.
