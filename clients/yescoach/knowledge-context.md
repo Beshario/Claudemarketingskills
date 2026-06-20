@@ -62,23 +62,35 @@ Strength patterns in one movement inform others. Suggestions evolve as your trai
 
 ---
 
-## Business Model
+## Business Model — v0.01 Model A (locked 2026-06-20)
 
-| Tier | What's included |
-|------|----------------|
-| **Free** | Full workout logging, planning, day view, muscle-first navigation, exercise browsing |
-| **Premium** | Intelligence layer: week/month visual summaries, body map analytics, muscle group tracking over time |
+Awareness is free, by design. Coaching — telling the user what to do with what they see — is
+the paid tier, in development. Full positioning detail in [positioning-v0.01.md](./positioning-v0.01.md).
 
-Monetization via RevenueCat (in-app subscription, localized pricing).
+| Tier | What's included | Status |
+|------|-----------------|--------|
+| **Free** | The awareness layer: workout logging, biomechanical body map (recalculates with stance / grip / load), muscle tracking over time, recovery visibility per muscle group, training balance & pattern analysis, weekly + monthly summaries, muscle-first navigation, any training style | Live |
+| **Coaching** | The paid tier: goal-aware prescribed sessions, in-session guidance, adaptive plans across recovery / balance / accumulated load, plans that learn how you train (not generic templates) | In development |
 
-**Pricing:**
-- Monthly: $2.99 CAD / ~$2.99 USD / ~799 INR
-- Annual: $19.99 CAD / ~$19.99 USD / ~1900 INR
-- Positioning: "a cup of coffee a month, a lunch a year" — impulse-buy monthly, commitment annual
+**Why this cut:** awareness (what is your training doing to your body) is what the
+biomechanical engine resolves; coaching (what to do about it) is the prescriptive layer. The
+line is philosophical, not feature-greedy — see and understand, paid only when the app starts
+telling you what to do. Makes the eventual coaching launch a promise kept, not a feature
+clawed back.
 
-**Current state:** One premium trial subscriber (India, serious lifter). They downloaded, explored the app, then converted to 1-month premium trial after a few clicks — strong in-app conversion signal. However, they haven't returned since — activation/retention gap. Public open beta on Google Play (pre-launch testing stage, not fully shipped).
+**Pricing:** Coaching pricing TBD; early users will get first access and early pricing.
+Monetization via RevenueCat (already wired). Avoid load-bearing absolutes like "free
+forever" — use "free, by design" / "free, on purpose."
 
-**Beta engagement mechanic (planned):** Work out 3 times within 7 days + submit feedback → unlock premium free for a set period. Forces real activation, filters for serious users, generates product feedback, and rewards the right behavior. Only people who experience the app's core value get the reward. Smart growth loop.
+**Legacy mechanics being retired:**
+- The Premium tier ($2.99/mo · $19.99/yr) that paywalled weekly/monthly body maps + muscle
+  tracking — those features are now free.
+- The earn-premium-by-training beta mechanic (3 workouts + feedback → premium). Anyone who
+  earned it personally keeps it; handled via DM, not site copy (no audience to walk back to).
+
+**Current state:** ~12 installs (2026-06-14 snapshot), ~5 friends/FoF, 80% Play listing
+conversion (small sample), come-and-go retention pattern. One India trial subscriber
+converted in-app then didn't return — activation gap, not conversion gap.
 
 ---
 

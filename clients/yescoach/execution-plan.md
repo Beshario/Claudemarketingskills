@@ -186,11 +186,11 @@ Three posts threading the activation story — pair with the rescript in `first-
 
 ---
 
-> "Building smart workout generation.
+> "Building the coaching layer.
 >
-> The hard part isn't the suggestions. It's making them grounded in *your* training data and biomechanics — not a generic template padded out.
+> The hard part isn't the prescriptions. It's grounding them in *your* recovery, balance, and accumulated load — not a generic template padded out.
 >
-> A real personal plan, generated from how you've actually trained. More soon."
+> The body map agreeing to help. Awareness is free; coaching, when it lands, is paid. More soon."
 
 ---
 

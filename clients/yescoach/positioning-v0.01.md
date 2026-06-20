@@ -15,7 +15,7 @@ The biomechanical depth is the pitch — let it speak.
 
 ## 1. The settled model (Model A)
 
-**FREE, forever — the awareness layer:**
+**FREE — the awareness layer:**
 - Workout logging
 - Biomechanical body map (recalculates with stance, grip, load, variant)
 - Muscle tracking over time
@@ -30,8 +30,12 @@ The biomechanical depth is the pitch — let it speak.
 - Adaptive across recovery, balance, accumulated load
 - Plans that learn how you train, not generic templates
 
-**The line:** *Awareness is free. Coaching, when it comes, is paid.* — or short form,
+**The line:** *Awareness is free, by design. Coaching, when it comes, is paid.* — or short form,
 *"See for free. Coached when you're ready."*
+
+**Language guard:** avoid load-bearing absolutes (`forever`, `always`). Use *"free, by
+design"* / *"free, on purpose"* — preserves the philosophical commitment without locking
+in a promise that handcuffs future strategy.
 
 ---
 
@@ -39,7 +43,7 @@ The biomechanical depth is the pitch — let it speak.
 
 ### Hero badge
 Replace "Open beta · Android" with:
-> **v0.01 · Awareness, free forever**
+> **v0.01 · Awareness, free**
 
 ### Hero headline + sub — KEEP as-is
 - "See what your training is doing."
@@ -49,10 +53,10 @@ These are the brand's strongest lines. Don't touch.
 
 ### Hero card (replaces the current "Earn premium free — just by training" card)
 
-> **Awareness is free. Forever.**
+> **Awareness is free, by design.**
 >
 > Logging, the body map, recovery, patterns — the whole *see what your training is doing*
-> layer. All free, on purpose. Coaching — adaptive sessions that talk back — is what we're
+> layer. Free, on purpose. Coaching — adaptive sessions that talk back — is what we're
 > building as the paid tier. Early users get first access.
 >
 > **[Download free — Android]**
@@ -64,15 +68,15 @@ These are the brand's strongest lines. Don't touch.
 ## 3. Reworked pricing / tier section
 
 Section heading:
-> **Free, forever. Coaching, coming.**
+> **Free. Coaching, coming.**
 
 Sub:
-> Awareness is the trust-bank. We made it free on purpose. Coaching — the layer that tells you
-> what to do with what you see — is the paid tier, in development.
+> Awareness is free, by design. Coaching — the layer that tells you what to do with what you
+> see — is the paid tier, in development.
 
-### Card 1 — Free, forever ($0)
+### Card 1 — Free ($0)
 
-Header label: **Free, forever**
+Header label: **Free**
 Price: **$0**
 
 Bullets:
@@ -100,19 +104,20 @@ Bullets:
 
 ---
 
-## 4. Walk-back as positive (handle the analytics-was-premium move)
+## 4. Walk-back? Not needed at this scale
 
-Small inline block above or next to the pricing section. Confident, not apologetic:
+The original consultant brief called for a walk-back-as-positive block ("Update: we made
+analytics free") to soften the change for existing premium-paying users. **We're skipping
+it.** Current state: ~12 installs, ~5 friends, no public paying base to walk anything back
+to. Adding a walk-back block to the site would invent a problem we don't have and lead with
+defensiveness instead of conviction.
 
-> **Update: we made awareness free.**
->
-> Muscle tracking, recovery, balance, patterns — what used to be premium — are now free,
-> forever. Seeing your training shouldn't have a price tag. If you were on the beta and
-> "earned premium," you keep everything you earned and you're first in line for coaching when
-> it ships.
+What we do instead:
+- The site simply presents Model A as the model, not as a change-from-prior-state.
+- Beta users who personally earned premium get a quiet personal note ("you keep it; you're
+  first in line for coaching") — handled via DM, not site copy.
 
-Frame: not a retreat — a settled-in conviction. We worked out what's actually pay-for-able
-(coaching) and what shouldn't be (visibility). Done.
+Revisit if/when a paying public audience exists. Until then: present, don't apologize.
 
 ---
 
@@ -122,11 +127,11 @@ Frame: not a retreat — a settled-in conviction. We worked out what's actually 
 - "How do I earn premium during beta?" — model is gone.
 
 ### Add
-**Q: Why is everything free now?**
-A: Because awareness should be the trust-bank, not the pitch. The whole "see what your
-training is doing" layer is free forever, by design. Coaching — adaptive sessions, in-session
-guidance, plans that learn how you train — is what we're building as the paid tier. Early
-users get first access when it lands.
+**Q: Why is everything free?**
+A: Because awareness should be the lead, not the pitch. The whole "see what your training is
+doing" layer is free, by design. Coaching — adaptive sessions, in-session guidance, plans
+that learn how you train — is what we're building as the paid tier. Early users get first
+access when it lands.
 
 **Q: When does coaching ship?**
 A: In development. We'll announce timing when it's close. Early users get first access and
@@ -233,7 +238,7 @@ discovery is the bottleneck):
 | Promise section | `app/page.tsx` (Promise block) | KEEP |
 | Add competitive section | `app/page.tsx` between Promise and Pricing | NEW section |
 | Pricing heading + sub | `app/page.tsx` pricing section | Replace |
-| Walk-back note | `app/page.tsx` above pricing cards | NEW block |
+| Walk-back note | — | SKIPPED (no audience to walk back to at this scale) |
 | Free tier card | `app/page.tsx` Free card | Rewrite bullets |
 | Premium card → Coaching coming | `app/page.tsx` Premium card | Rewrite as "coming, paid" |
 | FAQ — remove earn-premium Q | `app/page.tsx` FAQ array | Remove + add 2 new |
