@@ -57,17 +57,23 @@
 
 ---
 
-## 4. Business Model
+## 4. Business Model — v0.01 Model A (locked 2026-06-20)
 
-| Tier | What's included |
-|------|----------------|
-| **Free** | Full logging, planning, day view, muscle-first navigation, exercise browsing |
-| **Premium** | Intelligence layer: week/month body map summaries, muscle tracking over time |
+| Tier | What's included | Status |
+|------|-----------------|--------|
+| **Free** | The awareness layer: logging, biomechanical body map (recalculates with stance/grip/load), muscle tracking over time, recovery visibility, training balance & pattern analysis, weekly + monthly summaries, muscle-first navigation, any training style | Live |
+| **Coaching** | The paid tier: goal-aware prescribed sessions, in-session guidance, adaptive plans across recovery / balance / accumulated load | In development |
 
-**Pricing:** $2.99/mo · $19.99/yr (CAD, roughly same USD) · localized (e.g. ~799/1900 INR)
-Positioning: *a cup of coffee a month, a lunch a year.* Impulse-buy monthly, commitment annual.
+**Why this cut:** awareness (what is your training doing) is the engine's resolved output;
+coaching (what to do about it) is the prescriptive layer. Putting the line there preserves
+trust — see and understand free; pay only when the app starts telling you what to do.
 
-**Beta mechanic (planned):** Log 3 workouts in 7 days + submit feedback → unlock premium free for a set period. Forces real activation, filters for serious users, generates product feedback, rewards the right behavior.
+**Pricing:** Coaching pricing TBD; early users get first access and early pricing. Avoid
+load-bearing absolutes like "free forever" — use "free, by design."
+
+**Retired:** the old $2.99/mo Premium tier (paywalled analytics) and the
+earn-premium-by-training mechanic (3 workouts + feedback → premium). Everything that was in
+Premium is now in Free; nothing dangles a premium incentive in marketing copy anymore.
 
 ---
 
@@ -82,9 +88,9 @@ Positioning: *a cup of coffee a month, a lunch a year.* Impulse-buy monthly, com
 **Real users so far:**
 - Wife (experienced female lifter, nutritionist) — feedback: app surfaced her lower body dominance clearly, felt confronting because she's in a lower-activity phase. The visual data is honest — that's not a bug. But it surfaces a need: data should feel like a neutral mirror, not a scorecard.
 - Gym friend (serious lifter, home gym) — verdict: ready to go out. Flagged onboarding/video as the main gap.
-- 1 premium trial subscriber from India — downloaded, explored, converted to premium trial in a few clicks (strong in-app conversion signal), but didn't return (activation gap).
+- 1 trial subscriber from India (under the retired Premium tier) — downloaded, explored, converted in-app in a few clicks (strong in-app conversion signal), but didn't return (activation gap).
 
-**Consistent signal:** The product converts. The first session doesn't yet deliver the aha moment fast enough to bring people back.
+**Consistent signal:** The product converts (when there was something to convert to). The first session doesn't yet deliver the aha moment fast enough to bring people back. Under Model A there's no in-app conversion to chase — what matters is whether users come back to the free awareness layer often enough to earn the right to pitch coaching later.
 
 ---
 
@@ -123,8 +129,8 @@ These must exist first:
 **1. Demo video (60–90 seconds)**
 The product is visual. A screen recording showing muscle-first navigation → activation map changing with load → weekly body map summary explains in 60 seconds what no amount of text can. This is the single most important marketing asset. Put it above the fold on the website.
 
-**2. Beta mechanic live**
-3 workouts in 7 days + feedback → premium unlock. Every piece of content points to this offer. Don't run acquisition without it.
+**2. Model A messaging consistent across surfaces**
+Hero, store listing, X bio, BIP posts all carry the same line: *awareness is free, by design; coaching coming as the paid tier; early users first access.* No premium-incentive copy anywhere.
 
 **3. One real user quote**
 Ask the gym friend for permission to share his reaction publicly. Even one genuine quote from a real lifter is worth more than 50 screenshots.
@@ -162,7 +168,7 @@ The problem isn't content quality — it's that app screenshots on an unvalidate
 ### Website — Convert intent
 Currently passive. Needs:
 - Demo video prominent (above the fold or immediately below)
-- Beta offer stated plainly: *"Log 3 workouts in your first week, give us feedback, unlock premium free."*
+- Model A line plainly stated: *"Awareness is free, by design. Coaching coming as the paid tier."*
 - One real user quote
 
 ### Web version — Untapped distribution
@@ -194,8 +200,7 @@ iOS users and non-Android markets can use it now. Not promoted anywhere. Low-eff
 
 **Month 1 — Foundation**
 - [ ] Ship demo video
-- [ ] Launch beta mechanic (3 workouts → premium)
-- [ ] Update website: video + beta offer + one real quote
+- [ ] Update website: video + Model A copy + one real quote (DONE 2026-06-20)
 - [ ] Pivot X content away from app screenshots → exercise science + build-in-public
 - [ ] Join target subreddits as a participant, not a promoter
 
@@ -221,7 +226,7 @@ iOS users and non-Android markets can use it now. Not promoted anywhere. Low-eff
 | Feedback submissions | Quality of learning loop |
 | Week 2 return rate | Does the value stick? |
 | Source of discovery | Which channel is actually working? |
-| Premium conversion after beta period | Does earned premium convert to paid? |
+| Coaching waitlist interest (when v0.01 ships the announcement) | Does Model A's promise generate pull? |
 
 ---
 

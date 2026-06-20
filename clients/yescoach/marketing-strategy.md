@@ -29,7 +29,7 @@ Everything in this strategy feeds this number.
 ## Phase 1 — Validate (Now → first 50 activated users)
 
 ### Goal
-Get 50 people who log 3+ workouts in week one, complete the feedback loop, and unlock premium. Learn from every single one of them.
+Get 50 people who log 3+ workouts in week one and share honest feedback. Learn from every single one of them. (Under Model A there's no premium unlock to dangle — activation is the metric, not the bribe.)
 
 ### Why 50
 Small enough to give personal attention. Large enough to find real patterns. At 50 activated users with feedback, you'll know: what brings them in, what confuses them, what makes them stay, and what makes them tell someone else.
@@ -37,9 +37,9 @@ Small enough to give personal attention. Large enough to find real patterns. At 
 ### What needs to happen first
 Before marketing anything, two things must exist:
 
-1. **A demo video** (60–90 seconds). Show the muscle-first navigation, the activation map changing with load, the weekly summary body map. The concept is visual — it cannot be explained in text alone. This is your most important marketing asset. Without it, you're asking people to imagine something they've never seen.
+1. **A demo video** (60–90 seconds). Show the muscle-first navigation, the activation map changing with load, the submit-→-body-lights-up moment. The concept is visual — it cannot be explained in text alone. This is your most important marketing asset. Without it, you're asking people to imagine something they've never seen.
 
-2. **The beta mechanic live** (3 workouts in 7 days → premium unlock). This is your activation carrot. Every piece of acquisition content points to this offer.
+2. **Model A messaging consistent across every surface.** Hero, store listing, X bio, BIP posts — all the same line: *awareness is free, by design; coaching coming as the paid tier; early users get first access.* No premium-incentive copy anywhere.
 
 ---
 
@@ -92,7 +92,7 @@ Her feedback is the product insight: the data-honest design can feel like judgme
 
 The current site is good but passive. It needs:
 - **The demo video** above the fold or immediately accessible
-- **Clear beta offer** — "Work out 3 times in your first week, give us feedback, unlock premium free." State it plainly.
+- **Model A statement plainly** — *"Awareness is free, by design. Coaching coming as the paid tier."* (Shipped 2026-06-20.)
 - **Social proof section** — even one quote from your gym friend counts at this stage. Real > polished.
 
 ---
@@ -133,17 +133,20 @@ Numbers, decisions, user quotes, what you're shipping, what failed. Authentic an
 
 ---
 
-## The Beta Offer — How to Talk About It
+## The Pitch — How to Talk About v0.01 (Model A)
 
-The 3-workouts-in-7-days mechanic is your acquisition hook. It should be communicated as:
+The acquisition hook is **no hook**. It's the straight model. Communicated as:
 
-> *"Use YesCoach for real. Log 3 workouts in your first week, give us feedback — and unlock premium free. We want people who actually train, not downloads."*
+> *"YesCoach is free — logging, the body map, recovery, balance, patterns over time. The whole 'see what your training is doing' layer, free, by design. Coaching — the prescriptive layer — is coming as the paid tier. Early users get first access."*
 
-This messaging does several things:
-- **Filters for serious users** — speaks directly to people who train consistently
-- **Frames the ask as mutual** — you want feedback, they get premium, fair exchange
-- **Positions scarcity correctly** — not "free premium" (cheap) but "earn it by actually using it" (respect)
-- **Pre-qualifies word-of-mouth** — people who earn it will tell other serious lifters
+What this messaging does:
+- **Filters for serious users** — the kind of people who want to *understand* their training are exactly the ones who'll stick.
+- **Frames the ask honestly** — there's no bribe; we want feedback because we're building toward coaching and need to know what's missing.
+- **Pre-qualifies word-of-mouth** — depth-appreciating lifters refer other depth-appreciating lifters.
+- **Sets up the eventual paid tier** — coaching will feel like a promise kept, not a feature clawed back.
+
+(Historical: the earn-premium-by-training mechanic was retired 2026-06-20 with the Model A
+lock. Don't reintroduce.)
 
 ---
 
@@ -164,7 +167,7 @@ This messaging does several things:
 | Feedback submissions | Quality of learning loop |
 | Week 2 retention | Do people come back after week 1? |
 | Source of discovery | Which channel is actually working? |
-| Premium conversion after beta period ends | Does the value stick? |
+| Coaching waitlist interest (when announced) | Does Model A's promise pull? |
 
 ---
 
@@ -172,8 +175,7 @@ This messaging does several things:
 
 **Month 1 — Foundation**
 - Ship the demo video
-- Launch the beta mechanic (3 workouts → premium)
-- Update website with video + beta offer
+- Update website with video + Model A statement (DONE 2026-06-20)
 - Start posting exercise science content on X (not app posts)
 - Join relevant subreddits as a participant, not a promoter
 

@@ -16,13 +16,9 @@ These are blockers. Nothing else matters until they exist.
   - No voiceover needed. Add captions if anything needs labeling.
   - Tools: your phone screen recorder or any simple screen capture
 
-- [ ] **Ship the beta mechanic**
-  - 3 workouts logged in 7 days + feedback form submitted → premium unlocked for X days
-  - The feedback form can be a simple Google Form to start
-
 - [ ] **Update the website**
   - Embed demo video above the fold
-  - Add beta offer in plain language: *"Log 3 workouts in your first week, give us feedback, unlock premium free."*
+  - Hero message reflects Model A: awareness free, coaching coming (paid)
   - Add gym friend quote (ask permission first)
 
 - [ ] **Update X bio and pinned post**
@@ -196,13 +192,11 @@ Three posts threading the activation story — pair with the rescript in `first-
 
 ### Invite / Beta Offer
 
-> "Looking for serious lifters to beta test YesCoach.
+> "Looking for serious lifters to try YesCoach.
 >
-> Android only for now. You'll see muscle activation based on actual biomechanics — not generic labels — plus recovery tracking and training pattern summaries.
+> Android. Free. You'll see muscle activation based on actual biomechanics — not generic labels — plus recovery, balance, and training pattern summaries. Coaching layer coming as the paid tier; early users get first access.
 >
-> The deal: log 3 workouts in your first week, give me honest feedback, get premium free.
->
-> DM me if you train consistently and want real data from your training."
+> If you train consistently and want real data from your training, DM me — honest feedback is the whole point right now."
 
 ---
 

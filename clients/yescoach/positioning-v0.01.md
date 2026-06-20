@@ -114,8 +114,6 @@ defensiveness instead of conviction.
 
 What we do instead:
 - The site simply presents Model A as the model, not as a change-from-prior-state.
-- Beta users who personally earned premium get a quiet personal note ("you keep it; you're
-  first in line for coaching") — handled via DM, not site copy.
 
 Revisit if/when a paying public audience exists. Until then: present, don't apologize.
 
@@ -209,10 +207,11 @@ discovery is the bottleneck):
    stance vs wide — watch the glute activation shift"* is more persuasive than ten paragraphs
    of marketing copy. Lean marketing budget into that one clip type.
 
-6. **Beta-user appreciation as a content beat.**
-   Public thank-you to the people who earned premium during beta — "you helped shape this
-   layer; it's free now, and you're first in line for coaching." Real, warm, builder. Doesn't
-   feel like marketing.
+6. **The earn-premium-by-training mechanic is retired.** Don't ship the unlock; don't
+   message around it. Under Model A everything awareness-side is free, so there's no premium
+   to dangle. Replace any "log 3 workouts to unlock premium" copy with the straight model:
+   *"Free. Coaching coming, paid."* Activation still matters as a north-star metric — just
+   measure it, don't bribe for it.
 
 ---
 

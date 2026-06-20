@@ -129,9 +129,9 @@ product wires it. Two messages, sequenced.
 > submit, and the body map lights up with the muscles you actually worked. That's the moment
 > that wasn't landing before.
 >
-> Worth one more shot? If you do three workouts this week and share what you think, premium's
-> on me."
+> Worth one more shot? Honest feedback on what works and what doesn't is the whole loop right
+> now — that's the trade."
 
-Hooks straight into the beta mechanic (3 workouts → premium) and the new wow promise. For new
-downloads going forward, use the "DM Template (New Downloads)" in
+The whole app is free under Model A — there's no premium incentive to dangle. For new downloads
+going forward, use the "DM Template (New Downloads)" in
 [execution-plan.md](./execution-plan.md).
