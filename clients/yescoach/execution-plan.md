@@ -162,6 +162,34 @@ Pre-written posts ready to use. Pull from here each Monday when batching.
 
 ---
 
+### Model A pricing announcement (added 2026-06-21)
+
+Lead post — ships first; transparency BIP about the body-map-free / coaching-paid decision.
+
+> "Pricing decision I've been sitting with: the body map stays free.
+>
+> Logging, recovery, balance, patterns — the whole 'see what your training is doing' layer. Free, by design.
+>
+> Coaching's the paid tier when it ships. You pay only when the app starts telling you what to do."
+
+---
+
+Follow-up thread (queue for week after if the lead post travels):
+
+> 1/ Pricing decision I've been sitting with for YesCoach.
+>
+> The body map is free. Logging, recovery, balance, patterns — the whole "see what your training is doing" layer. Free, by design.
+
+> 2/ Coaching is the paid tier. When it ships.
+>
+> Goal-aware prescribed sessions. In-session guidance. Plans that adapt to your recovery and balance. Not yet — but that's the line.
+
+> 3/ The cut is philosophical, not feature-greedy.
+>
+> Awareness is what the engine resolves; coaching is the prescriptive layer. You pay only when the app starts telling you what to do — not for the right to see what's already happening.
+
+---
+
 ### First-Session Wow Arc / Smart-Gen Tease (added 2026-05-30)
 
 Three posts threading the activation story — pair with the rescript in `first-session-wow.md`.
