@@ -1,6 +1,6 @@
 # YesCoach — Marketing Plan
 
-*Last updated: 2026-03-18 | Stage: Open beta, Android, solo founder*
+*Last updated: 2026-06-22 | Stage: v0.01 release (Model A), Android, solo founder*
 
 ---
 
@@ -80,9 +80,9 @@ Premium is now in Free; nothing dangles a premium incentive in marketing copy an
 ## 5. Current State
 
 **What exists:**
-- Android app, public open beta on Google Play
+- Android app, shipping v0.01 on Google Play under Model A (free awareness; coaching coming, paid)
 - Web version (internal — usable for iOS/non-Android users, not yet promoted)
-- Website: yescoach.fit with email waitlist
+- Website: yescoach.fit (Cloudflare Pages, no waitlist, Model A copy live 2026-06-22)
 - X account: @YCoach58265, ~150 max impressions/post
 
 **Real users so far:**

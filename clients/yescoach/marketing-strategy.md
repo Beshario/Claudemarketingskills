@@ -1,7 +1,7 @@
 # YesCoach — Marketing Strategy
 
 *Last updated: 2026-03-18*
-*Stage: Open beta, Android, solo founder, build-in-public*
+*Stage: v0.01 release (Model A), Android, solo founder, build-in-public*
 *Goal: Validate product-market fit, build an engaged early adopter base, establish credibility*
 
 ---

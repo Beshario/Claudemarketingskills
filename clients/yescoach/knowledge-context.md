@@ -123,8 +123,8 @@ This is not a logger — it's a platform for training intelligence. The long-ter
 | Channel | Status | Notes |
 |---------|--------|-------|
 | X (Twitter) | Active, underperforming | @YCoach58265, ~150 max impressions/post |
-| Website | Live | yescoach.fit, email waitlist via Netlify forms |
-| App Store | Android (Google Play) | Open beta |
+| Website | Live | yescoach.fit (Cloudflare Pages, Next.js static export, no waitlist — Model A copy live 2026-06-22) |
+| App Store | Android (Google Play) | v0.01 — shipping under Model A |
 | Email list | Collecting | ~handful (friends only, not yet a real list) |
 
 **Root issue on X:** Content is app-centric (screenshots, features) without validation or trust. The account has no established credibility, so product posts don't travel. No value-first content to attract the target audience before pitching.
